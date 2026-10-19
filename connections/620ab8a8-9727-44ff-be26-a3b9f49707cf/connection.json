@@ -1,0 +1,24 @@
+{
+  "id": "620ab8a8-9727-44ff-be26-a3b9f49707cf",
+  "display_name": "mysqlconn1",
+  "name": "mysqlconn1",
+  "connector": {
+    "name": "CData MySQL",
+    "version": "latest"
+  },
+  "properties": {
+    "Server": "localhost",
+    "AuthScheme": "Password",
+    "Password": "SECURE:e2KxYzBGOncdTxFkHILDn2Qyw/nUy+tGjN5gBQoyuPPb3w6XsL3f6Jq/cgmA6lNeHxY7Mt8VDa/xGw==",
+    "Database": "db2",
+    "Port": "3306",
+    "User": "root"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 0
+  }
+}
